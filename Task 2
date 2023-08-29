@@ -1,3 +1,4 @@
-Here you have one encrypted filepack.
-and one that does not entirely brute-force Python code.
-Frist Modify the code then decrypt the file then submit the code.
+Here you have one zip file named "EncryptedFilePack".
+First, unzip the above file.
+Inside the file is one zip file named enc.zip, and one Python script that does not entirely complete brute-force Python code.
+Modify the code, then, using the code, unzip the "enc.zip" file, and then submit the code in the submit section.
